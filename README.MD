@@ -13,7 +13,7 @@
 # 安装
 
 ```php
-composer require weikaiii/curl
+composer require weikaiii/curl dev-master
 ```
 # 配置
 
